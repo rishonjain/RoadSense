@@ -1,7 +1,12 @@
+torch>=2.0.0
+torchvision
 ultralytics
-torch
 opencv-python
 pandas
+numpy
 matplotlib
+seaborn
 reportlab
 streamlit
+scikit-learn
+moviepy
