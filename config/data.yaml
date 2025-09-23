@@ -1,5 +1,5 @@
-train: C:\Users\risho\Documents\GitHub\RoadSense\config\rdd2022\train\images
-val: C:\Users\risho\Documents\GitHub\RoadSense\config\rdd2022\val\images
+train: C:\Users\risho\Documents\RoadSense\config\rdd2022\train\images
+val: C:\Users\risho\Documents\RoadSense\config\rdd2022\val\images
 
 # Class information (this part is correct)
 nc: 4
